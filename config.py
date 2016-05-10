@@ -7,9 +7,9 @@ import re
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-pixiv_id = '16467688'
-email = 'yaojinhonggg@163.com'
-password = 'yjh201697'
+pixiv_id = '******'
+email = '**********'
+password = '********'
 
 pixiv_url = 'http://www.pixiv.net'
 header = {
@@ -34,7 +34,7 @@ lc_data = {
     'user_language': 'zh'
 }
 
-cookie_path = 'E:\python\pa\cookie.txt'
+cookie_path = 'cookie.txt'
 default_store_path = 'G:\\pixiv'
 
 
